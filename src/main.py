@@ -7,6 +7,8 @@ import time
 # pip install pandas openpyxl
 import pandas
 
+# pip freeze > requirements.txt // exporta as dependências em txt
+
 # Delay da execução dos comandos
 pyautogui.PAUSE = 1.5
 
