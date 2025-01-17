@@ -56,7 +56,7 @@ pyautogui.press("enter")
 
 # Ler o arquivo .csv
 
-tabela = pandas.read_csv("produtos.csv")
+tabela = pandas.read_csv("../data/produtos.csv")
 print(tabela)
 time.sleep(2)
 
